@@ -1,6 +1,10 @@
 # run-chrome-as-root
 Run google chrome as another user when logged in as root
 
+#### create a user called `chrome`
+
+`# adduser chrome`
+
 
 `google-chrome.sh`
 ```bash
