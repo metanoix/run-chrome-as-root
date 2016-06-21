@@ -17,7 +17,7 @@ EOF
 
 ```
 
-`
+```
 # chmod +x ./google-chrome.sh`
 # ./google-chrome.sh
-`
+```
