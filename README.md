@@ -2,6 +2,7 @@
 Run google chrome as another user when logged in as root
 
 
+`google-chrome.sh`
 ```bash
 #!/bin/bash
 
@@ -11,3 +12,8 @@ su chrome <<'EOF'
 EOF
 
 ```
+
+`
+# chmod +x ./google-chrome.sh`
+# ./google-chrome.sh
+`
