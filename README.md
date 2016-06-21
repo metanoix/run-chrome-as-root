@@ -1,4 +1,4 @@
-# run-chrom-as-root
+# run-chrome-as-root
 Run google chrome as another user when logged in as root
 
 
